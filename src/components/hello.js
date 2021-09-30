@@ -2,7 +2,6 @@
 function Hello(){
     return(
         <div>
-          
                HELLO!
           
         </div>
