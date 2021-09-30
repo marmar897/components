@@ -1,12 +1,11 @@
 
-
 function Hello(){
     return(
         <div>
-          <h1>
-                yoo we hacking on React!
-          </h1>
+          
+               HELLO!
+          
         </div>
     );
 } 
-default export Hello();
+export default Hello();
